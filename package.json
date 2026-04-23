@@ -42,5 +42,8 @@
   "scripts": {
     "test": "node test",
     "bench": "node test --bench"
+  },
+  "overrides": {
+    "marked": ">=4.0.10"
   }
 }
